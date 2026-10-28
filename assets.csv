@@ -1,0 +1,7 @@
+Thing,What it does,Risky?
+DVWA,Old practice website with a broken lock (PHP 7.0),Yes but switched off
+Print Spooler,Lets the laptop talk to printers,Not sure - I never print
+SMB,File-sharing door between computers,Not sure - door is open but firewall blocks it
+Intel AMT,Remote-control door built into the chip,Yes - firmware web server answers and leaks version 12.1.1.1022; patch level unknown
+EliteBook,The laptop that holds everything,Yes - it sits on shared Wi-Fi in Dubai
+Kali WSL,My attack lab inside Windows,No - which php returned nothing
