@@ -2,6 +2,6 @@ Thing,What it does,Risky?
 DVWA,Old practice website with a broken lock (PHP 7.0),Yes but switched off
 Print Spooler,Lets the laptop talk to printers,Not sure - I never print
 SMB,File-sharing door between computers,Not sure - door is open but firewall blocks it
-Intel AMT,Remote-control door built into the chip,Yes - firmware web server answers and leaks version 12.1.1.1022; patch level unknown
+Intel AMT,Remote-control door built into the chip,Accepted for now - AMT answers on 16992 (v12.1.1.1022); BIOS 01.36 from June 2026; ME firmware version and AMT on/off not yet checked in BIOS
 EliteBook,The laptop that holds everything,Yes - it sits on shared Wi-Fi in Dubai
 Kali WSL,My attack lab inside Windows,No - which php returned nothing
